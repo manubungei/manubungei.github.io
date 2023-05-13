@@ -2214,7 +2214,7 @@ textarea.w-select {
 body {
 	margin: 0;
 	min-height: 100%;
-	color: #333;
+	color: #7f8083;
 	background-color: #f0f4fb;
 	font-family: Oxygen, sans-serif;
 	font-size: 16px;
@@ -2282,7 +2282,7 @@ blockquote {
 
 .logo-text {
 	font-family: Montserrat, sans-serif;
-	color: #f0f4fb;
+	color: #fffcfc;
 	font-size: 20px;
 	line-height: 28px;
 	font-weight: 600
@@ -2308,7 +2308,7 @@ blockquote {
 	position: fixed;
 	width: 100%;
 	height: 74px;
-	background-color: rgba(113, 74, 255, .71);
+	background-color: rgba(79, 77, 105, 0.76);
 	-webkit-backdrop-filter: blur(5px);
 	backdrop-filter: blur(5px)
 }
@@ -2490,7 +2490,7 @@ blockquote {
 
 .text.colored {
 	margin-bottom: 6px;
-	color: #4f1fff;
+	color: #ce1b1b;
 	text-transform: uppercase
 }
 
@@ -2561,7 +2561,7 @@ blockquote {
 
 .small-title {
 	margin-top: 40px;
-	color: #9ca8c9;
+	color: #c99c9c;
 	font-size: 14px;
 	line-height: 24px
 }
@@ -2591,7 +2591,7 @@ blockquote {
 	justify-content: center;
 	align-items: center;
 	border-radius: 500px;
-	background-color: #714aff;
+	background-color: #4a63b4;
 	transition: .2s;
 	color: #fff;
 	line-height: 20px;
@@ -2599,7 +2599,7 @@ blockquote {
 }
 
 .primary-button:hover {
-	background-color: #4f1fff
+	background-color: #4a63b4
 }
 
 .primary-button.top-margin {
@@ -2614,18 +2614,18 @@ blockquote {
 	padding: 14px 34px;
 	justify-content: center;
 	align-items: center;
-	border: 1px solid #714aff;
+	border: 1px solid #4a63b4;
 	border-radius: 500px;
 	background-color: transparent;
 	transition: .2s;
-	color: #252b3a;
+	color: #4a63b4;
 	line-height: 20px;
 	text-decoration: none
 }
 
 .secondary-button:hover {
-	background-color: #714aff;
-	color: #fff
+	background-color: #4a63b4;
+	color: #ffffff
 }
 
 .secondary-button.white {
@@ -2638,7 +2638,7 @@ blockquote {
 	justify-content: center;
 	align-items: center;
 	border-radius: 500px;
-	background-color: #714aff;
+	background-color: #4765c9;
 	transition: .2s;
 	color: #fff;
 	font-size: 14px;
@@ -2647,7 +2647,7 @@ blockquote {
 }
 
 .primary-small-button:hover {
-	background-color: #4f1fff
+	background-color: #3060fd
 }
 
 .primary-small-button.left-padding {
@@ -2661,18 +2661,18 @@ blockquote {
 	padding: 10px 24px;
 	justify-content: center;
 	align-items: center;
-	border: 1px solid #714aff;
+	border: 1px solid #4a63b4;
 	border-radius: 500px;
 	background-color: transparent;
 	transition: .2s;
-	color: #252b3a;
+	color: #3a2525;
 	font-size: 14px;
 	line-height: 20px;
 	text-decoration: none
 }
 
 .secondary-small-button:hover {
-	background-color: #714aff;
+	background-color: #4a63b4;
 	color: #fff
 }
 
@@ -2771,7 +2771,7 @@ blockquote {
 }
 
 .hero-span {
-	color: #714aff
+	color: #4a63b4
 }
 
 .large-bubble {
@@ -3379,13 +3379,13 @@ blockquote {
 	margin-left: 20px;
 	align-items: center;
 	transition: .2s;
-	color: #f0f4fb;
+	color: #f8fafd;
 	font-size: 14px;
 	line-height: 20px
 }
 
 .nav-link:hover {
-	color: #714aff
+	color: #0c3ee4
 }
 
 .nav-link.w--current {
@@ -3519,7 +3519,7 @@ blockquote {
 		justify-content: center;
 		border-radius: 0;
 		background-color: #fff;
-		box-shadow: 0 20px 60px 0 rgba(55, 68, 111, .4)
+		box-shadow: 0 20px 60px 0 rgba(111, 55, 55, 0.4)
 	}
 
 	.bottom-burger-line {
