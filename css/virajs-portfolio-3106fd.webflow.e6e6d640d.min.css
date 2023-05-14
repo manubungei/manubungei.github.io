@@ -2214,7 +2214,7 @@ textarea.w-select {
 body {
 	margin: 0;
 	min-height: 100%;
-	color: #837f7f;
+	color: #333;
 	background-color: #f0f4fb;
 	font-family: Oxygen, sans-serif;
 	font-size: 16px;
@@ -2308,7 +2308,7 @@ blockquote {
 	position: fixed;
 	width: 100%;
 	height: 74px;
-	background-color: rgba(79, 77, 105, 0.76);
+	background-color: rgba(43, 35, 158, 0.76);
 	-webkit-backdrop-filter: blur(5px);
 	backdrop-filter: blur(5px)
 }
@@ -3379,13 +3379,13 @@ blockquote {
 	margin-left: 20px;
 	align-items: center;
 	transition: .2s;
-	color: #f8fafd;
+	color: #bec0c0;
 	font-size: 14px;
 	line-height: 20px
 }
 
 .nav-link:hover {
-	color: #0c3ee4
+	color: #fcfcfd
 }
 
 .nav-link.w--current {
