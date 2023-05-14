@@ -2297,7 +2297,11 @@ blockquote {
 	display: flex;
 	height: 100%;
 	align-items: center
+}
 
+.logo-icon {
+	width: 28px;
+	margin-right: 8px
 }
 
 .navigation {
