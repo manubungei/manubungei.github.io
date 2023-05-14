@@ -2282,7 +2282,7 @@ blockquote {
 
 .logo-text {
 	font-family: Montserrat, sans-serif;
-	color: #fffcfc;
+	color: #ffffffff;
 	font-size: 20px;
 	line-height: 28px;
 	font-weight: 600
@@ -2638,7 +2638,7 @@ blockquote {
 	justify-content: center;
 	align-items: center;
 	border-radius: 500px;
-	background-color: #4765c9;
+	background-color: #647ccc;
 	transition: .2s;
 	color: #fff;
 	font-size: 14px;
@@ -2647,7 +2647,7 @@ blockquote {
 }
 
 .primary-small-button:hover {
-	background-color: #3060fd
+	background-color: #6588fa
 }
 
 .primary-small-button.left-padding {
@@ -3379,13 +3379,13 @@ blockquote {
 	margin-left: 20px;
 	align-items: center;
 	transition: .2s;
-	color: #bec0c0;
+	color: #dddddd;
 	font-size: 14px;
 	line-height: 20px
 }
 
 .nav-link:hover {
-	color: #fcfcfd
+	color: #ffffff
 }
 
 .nav-link.w--current {
